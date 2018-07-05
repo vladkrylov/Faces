@@ -10,3 +10,4 @@ Resources about
 * Face quality assessment
 * Everything at once
   * Ranjan, Rajeev, et al. (AFGR IEEE 2017) [An all-in-one convolutional neural network for face analysis.](https://arxiv.org/pdf/1611.00851)
+    * 3.5 s per image (8 CPU cores and GTX TITAN-X GPU)
